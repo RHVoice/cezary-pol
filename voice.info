@@ -3,3 +3,5 @@ language=Polish
 gender=male
 format=4
 revision=0
+msi_upgrade_code=f525ae7b-da8e-4fc7-adde-aa5932c4a703
+exe_upgrade_code=4164bf69-0190-43aa-be68-076df2995643
