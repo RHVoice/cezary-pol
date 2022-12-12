@@ -3,6 +3,6 @@ This voice is distributed under the [Creative Commons Attribution-NonCommercial-
 
 ## Team
 - Paulina Gajoch - voice initiative.
-- Jan Staszczak - Speaker.
+- Jan Staszczyk - Speaker.
 - Tomasz Bilecki - audio editing.
 - Zvonimir Stanecic - voice training, package preparation.
